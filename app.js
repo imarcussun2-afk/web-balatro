@@ -152,7 +152,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     // build_button.addEventListener("click", function() {
     //     var s = document.createElement('script');
     //     s.type = 'text/javascript';
-    //     s.src = "https://cdn.jsdelivr.net/gh/imarcussun2-afk/web-balatro@main/single_file.js"; // THICC FILE
+    //     s.src = "https://cdn.jsdelivr.net/gh/imarcussun2-afk/web-balatro@main/run/single_file.js"; // THICC FILE
     //     s.async = true;
     //     s.onload = async function () {
     //         const game_uri = await getDataURIFromBlob(game)
