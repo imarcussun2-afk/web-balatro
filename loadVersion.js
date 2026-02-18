@@ -89,7 +89,7 @@ async function loadVersion(versionId) {
         progress_bar.value = 0;
         var s = document.createElement('script');
         s.type = 'text/javascript';
-        s.src = "single_file.js"; // THICC FILE
+        s.src = "https://cdn.jsdelivr.net/gh/imarcussun2-afk/web-balatro@main/single_file.js"; // THICC FILE
         s.async = true;
         s.onload = async function () {
             status_text.innerText = "Filling Template"
